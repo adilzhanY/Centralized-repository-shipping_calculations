@@ -1,5 +1,5 @@
 # LogisticsShippingRates
-Please consider the below factors while contributing
+This project is for Git and GitHub learning
 
 Code Style:
 Maintain a consistent code style for readability.
